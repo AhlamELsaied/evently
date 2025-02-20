@@ -1,0 +1,23 @@
+[33mcommit 168d51348d15103245f4b3e7569955845d5a1f24[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ahlam ElSaied <ahlam.elsaiiied22@gmail.com>
+Date:   Fri Feb 21 00:18:36 2025 +0200
+
+    eventlyApp
+    onboardingScreen
+    then
+    createAccount
+    or
+    if he had a account and he forget his password
+    can choose forgetPassword
+    then
+    login
+    then
+    now
+    have 4 tabs
+    homeScreen
+    mapScreen
+    favScreen
+    profileScreen
+    and can change theme of app
+    or
+    Application language

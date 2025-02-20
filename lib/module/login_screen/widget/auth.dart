@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import '../../../core/routes/app_routes_name.dart';
 import 'package:awesome_snackbar_content/awesome_snackbar_content.dart';
+//end
 
 class AuthService {
   final FirebaseAuth _auth = FirebaseAuth.instance;

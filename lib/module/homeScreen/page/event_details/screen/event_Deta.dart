@@ -9,6 +9,7 @@ import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import '../../../../../core/maneger/firebase/model/eventfiremodel.dart';
 import '../../../../../core/maneger/provider/app_provider.dart';
+//end
 
 class EventDetails extends StatefulWidget {
   final EventModel event;

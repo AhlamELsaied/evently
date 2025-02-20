@@ -7,6 +7,8 @@ import '../../../core/maneger/provider/app_provider.dart';
 import '../../../core/routes/app_routes_name.dart';
 import '../widget/widget.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+//end
+
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});
 

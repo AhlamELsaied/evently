@@ -3,6 +3,7 @@ import 'package:evently/core/maneger/provider/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:geocode/geocode.dart';
 import 'package:provider/provider.dart';
+//end
 
 class CustomLocation extends StatefulWidget {
   final double lat;

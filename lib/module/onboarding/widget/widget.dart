@@ -1,6 +1,6 @@
 import 'package:evently/core/app_theme/app_color.dart';
 import 'package:flutter/material.dart';
-
+//end
 Widget buildPage({
   required String image,
   required String title,

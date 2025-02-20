@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../../../../core/maneger/provider/app_provider.dart';
+//end
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});

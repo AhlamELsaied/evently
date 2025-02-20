@@ -8,6 +8,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:location/location.dart';
 import '../../../core/maneger/firebase/screen/fireBaseManeger.dart';
 import '../../../core/maneger/firebase/model/eventfiremodel.dart';
+//end
 
 class LayoutscreenProvider extends ChangeNotifier {
   List<Widget> screen = [

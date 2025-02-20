@@ -8,6 +8,7 @@ import '../../../core/app_theme/app_asstes.dart';
 import '../../../core/maneger/provider/app_provider.dart';
 import '../widget/auth.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+//end
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});

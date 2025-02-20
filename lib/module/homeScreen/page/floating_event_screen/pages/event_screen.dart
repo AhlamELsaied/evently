@@ -9,6 +9,7 @@ import '../../../../../core/app_theme/app_color.dart';
 import '../../../../../core/constant/categoryData.dart';
 import '../../../../../core/constant/customBottom.dart';
 import '../../../../../core/maneger/provider/app_provider.dart';
+//end
 
 class EventScreen extends StatelessWidget {
   const EventScreen({super.key});

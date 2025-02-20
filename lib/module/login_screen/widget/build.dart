@@ -2,6 +2,7 @@ import 'package:evently/core/app_theme/app_color.dart';
 import 'package:evently/core/maneger/provider/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+//end
 
 Widget buildTextField({
   required String label,

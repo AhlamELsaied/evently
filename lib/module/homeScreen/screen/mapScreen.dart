@@ -1,12 +1,10 @@
-import 'package:evently/core/constant/categoryData.dart';
-import 'package:evently/core/maneger/firebase/screen/fireBaseManeger.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:provider/provider.dart';
 
-import '../widget/card_event.dart';
 import '../widget/layoutScreenProvider.dart';
 import '../widget/mapCardItem.dart';
+//end
 
 class MapScreen extends StatefulWidget {
   const MapScreen({super.key});

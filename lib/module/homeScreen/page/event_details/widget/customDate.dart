@@ -1,7 +1,5 @@
-import 'package:evently/module/homeScreen/page/floating_event_screen/provider_event/event_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-
+//end
 class CustomDate extends StatelessWidget {
   final String time;
   final String date;

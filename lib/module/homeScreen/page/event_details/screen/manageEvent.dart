@@ -10,6 +10,7 @@ import '../../../../../core/maneger/provider/app_provider.dart';
 import '../../../../../core/routes/app_routes_name.dart';
 import '../../../widget/custom_text_field.dart';
 import '../../floating_event_screen/provider_event/event_provider.dart';
+//end
 
 class ManageEvent extends StatefulWidget {
   final EventModel? eventModel;

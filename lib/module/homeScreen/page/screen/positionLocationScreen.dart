@@ -5,7 +5,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-import '../../widget/card_event.dart';
+//end
 
 class PositionLocationScreen extends StatefulWidget {
   late EventProvider provider;

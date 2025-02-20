@@ -13,6 +13,7 @@ import 'package:evently/module/splash/screen/splash_screen.dart';
 import 'package:flutter/cupertino.dart';
 import '../../module/homeScreen/page/screen/layout_Screen.dart';
 import '../maneger/firebase/model/eventfiremodel.dart';
+//end
 
 class AppRoutes {
   static Map<String, Widget Function(BuildContext)> routes = {

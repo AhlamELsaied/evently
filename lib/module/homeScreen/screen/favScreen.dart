@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 import '../../../core/maneger/provider/app_provider.dart';
+//end
 
 class FavScreen extends StatefulWidget {
   FavScreen({super.key});

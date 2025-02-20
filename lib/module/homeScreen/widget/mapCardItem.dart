@@ -1,6 +1,7 @@
 import 'package:evently/core/app_theme/app_color.dart';
 import 'package:evently/core/maneger/firebase/model/eventfiremodel.dart';
 import 'package:flutter/material.dart';
+//end
 
 class MapCardItem extends StatelessWidget {
   final EventModel eventModel;
